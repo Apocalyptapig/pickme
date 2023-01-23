@@ -1,0 +1,12 @@
+stop_buttons = [3, 4, 5]
+selected_formatting = "> {!} <"
+
+[normal]
+foreground = "bright"
+background = "dark"
+markdown = ["italic"]
+
+[selected]
+foreground = "bright"
+background = "none"
+markdown = ["bold"]
